@@ -7,6 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
+    "homepage": "https://lotusmito.github.io/Photo-visualtype-text-pro/"
   },
   "dependencies": {
     "react": "^19.2.3",
