@@ -20,12 +20,8 @@
     "vite": "^6.2.0"
   }
   {
-  "name": "my-app",
-  "homepage": "https://lotusmito.github.io/Photo-visualtype-text-pro/"
-  }
-  {
-  "scripts": {
-    "deploy": "gh-pages -d build"
-    }
-  }
+  "predeploy": "npm run build",
+  "homepage": "https://lotusmito.github.io/Photo-visualtype-text-pro/",
+  "deploy": "gh-pages -d build",
+  } 
 }
