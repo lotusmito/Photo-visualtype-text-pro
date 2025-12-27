@@ -19,4 +19,8 @@
     "typescript": "~5.8.2",
     "vite": "^6.2.0"
   }
+  {
+  "name": "my-app",
+  "homepage": "https://<your-github-username>.github.io/my-app"
+  }
 }
