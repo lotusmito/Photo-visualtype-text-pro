@@ -1,0 +1,5 @@
+{
+  "name": "Photo-visualtype-text-pro",
+  "description": "A high-end image editor that allows users to upload photos, add stylish text overlays, customize fonts/colors, and drag elements to create professional graphics. Features Gemini-powered caption suggestions.",
+  "requestFramePermissions": []
+}
