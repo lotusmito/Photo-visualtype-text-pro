@@ -23,4 +23,9 @@
   "name": "my-app",
   "homepage": "https://<your-github-username>.github.io/my-app"
   }
+  {
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  }
+
 }
